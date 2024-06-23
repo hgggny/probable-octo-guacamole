@@ -1,0 +1,6 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(¸·ï®úÿÿÿÿ8ðý¶ƒ‚2J$b1aef0ce-d053-46d4-a124-6bea5933faf0
+ˆ
+java:S1128"ERemove this unused import 'hyunzinbak.core.member.MemberServiceImpl'.(Ô…ðó8úž¶ž„2J$c6526e79-9898-49b4-99bf-50bcfb6b2ec8
+‹
+java:S1128	"CRemove this unused import 'hyunzinbak.core.order.OrderServiceImpl'.(ßÑ§Œþÿÿÿÿ8þž¶ž„2J$dc98d35e-a480-492b-906b-758f4432cd2f
